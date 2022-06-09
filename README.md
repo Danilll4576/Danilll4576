@@ -1,3 +1,3 @@
-
-Меня интеремуе   Python Django Html Css JS  CMD  Web  SQl 
-Сейчас учусь деплойит проекты джанги
+Мое имя Данил М. С.
+ Меня интеремуе   Python Django Html Css JS  CMD  Web  SQl  TelegramBots  Кибер Безопасность  git 
+Сейчас учусь деплойит проекты Django для чего нужно пройти уроки по: Doker  Nginx  и различные протоколыю
